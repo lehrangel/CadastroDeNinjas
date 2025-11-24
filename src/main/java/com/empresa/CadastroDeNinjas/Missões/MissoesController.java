@@ -1,4 +1,4 @@
 package com.empresa.CadastroDeNinjas.Missões;
 
-public class MissaoController {
+public class MissoesController {
 }
